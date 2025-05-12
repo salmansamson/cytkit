@@ -1,7 +1,9 @@
 # Cytkit
-### Your Open-Source Sidekick in Spectral Cytometer
+** Your Open-Source Sidekick in Spectral Cytometer **
 
 ## Introduction
+
+![Cytometry spec](Presentation materials/Burton 10-colours on 488.png)
 
 ## License - Please Read!
 
