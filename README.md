@@ -4,20 +4,21 @@
 __Your open-source spectral cytometry sidekick__ 
 
 ## Introduction
-This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project by Richard Bowman and others. Thanks to many friends and colleagues for friendly advice!
+This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for starting the electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project by Richard Bowman and others. Thanks to many friends and colleagues for friendly advice!
 
-Aim: to build a highly accessible cytometry analyser:
+Aim: to build a highly useful and accessible cytometry analyser:
 - Useful for technology developers 
 - Useful for laboratory hackers
 - Useful for resource-limited labs
+- Useful for teaching flow cytometry
 - Useful for all cell biologists
 
 Through this project, I hope to: 
-- Help build the open source cytometry community
+- Help build the open source cytometry hardware community
 - Release a simple design that is highly accessible for others to modify and build on
 - Share knowledge for building cytometers and new cytometry technology
 
-The design is currently labelled v0.3 and contains all mechanical parts, an optical model, and a bill of materials. Initial testing of the released system in conjunction with commercial photodetectors, external data acquisition and analysis, shows that the system is capable of resolving 8 peak rainbow beads. 
+The design is currently labelled v0.3 and contains all mechanical parts, an optical model, and a bill of materials. Initial testing of the released system is underway in conjunction with commercial photodetectors, external data acquisition hardware and offline analysis, and shows that the system is capable of resolving 8 peak rainbow beads. 
 
 To complete the design, the following additions are planned:
 - PCBs for forward scatter, side scatter and fluorescence, data acquisition and fluidics control
@@ -29,24 +30,25 @@ The bill of materials including all current parts as well as an estimation of th
 Please [get in touch with me](https://www.linkedin.com/in/salmanrogers/) if you are:
 - interested in contributing
 - interested in buying a kit
-- interested in talking about anything else!
+- interested in requesting our expertise
+- interested in anything else!
 
 ![Cytkit CAD render](/Presentation%20materials/cytkit%200.3%20transparent.png)
 
 ## License
 This project is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal [CERN-OHL-S](https://opensource.org/license/cern-ohl-s). 
 
-That means you can study and modify this design, and manufacture and distribute products based on it, provided that you release all modifications under the same open source license. 
+That means you can study and modify this design. You may also manufacture and distribute products based on it, but only if you release all modifications and derivatives under the same open source license. 
 
-There is no warranty and all liabilities are disclaimed. Youu accept the design "as is."
+There is no warranty. All liabilities are disclaimed. You accept the design "as is."
 
 ## Specification
-Cytkit is intended to be one's personal cytometry sidekick:
+Cytkit is intended to be one's personal cytometry _sidekick_:
 - Conventional format, but small
 - Easy to adjust, align and maintain... no need for a service contract
 - Separate sheath and waste bottles
 - Volumetric sample pump for absolute concentration measurement of cell populations
-- Conventional single sip-tube sample loader 
+- Conventional single SIP-tube sample loader 
 - User interface on PC connected by USB
 - Can be powered by USB power pack
 - Mechanical parts all 3D-printed
@@ -72,7 +74,7 @@ The optical model has been built in the FreeCAD Optical Design Workbench and is 
 
 STL files for 3D printing (FDM) are provided in [STL files for printing](/STL%20files%20for%20printing).
 
-The Bill of Materials is provides in [Cytkit Bill of Materials v0.3.ods](/Cytkit%20Bill%20of%20Materials%20v0.3.ods)
+The Bill of Materials including suppliers of parts is provided in [Cytkit Bill of Materials v0.3.ods](/Cytkit%20Bill%20of%20Materials%20v0.3.ods).
 
 ## To do
 - Present the project at CYTO 2025 in Denver
