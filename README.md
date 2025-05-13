@@ -1,9 +1,10 @@
 # Cytkit
-![Cytkit mascot](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit_logo_bee_thumb.png?raw=true)
+![Cytkit bee mascot](/Presentation%20materials/cytkit_logo_bee_thumb.png)
+
 __Your open-source spectral cytometry sidekick__ 
 
 ## Introduction
-This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project.
+This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project by Richard Bowman and others. Thanks to many friends and colleagues for friendly advice!
 
 Aim: to build a highly accessible cytometry analyser:
 - Useful for technology developers 
@@ -75,7 +76,7 @@ The Bill of Materials is provides in [Cytkit Bill of Materials v0.3.ods](/Cytkit
 
 ## To do
 - Present the project at CYTO 2025 in Denver
-- Write complete documentation for 3D printing, assembly, alignment and maintenance.
+- Write complete documentation for 3D printing, assembly, alignment and maintenance
 - Provide electronics PCBs and connectors
 - Provide software (embedded and host PC)
-- Provide kits on demand
+- Build a business to provide kits on demand and make this project rewarding for collaborators
