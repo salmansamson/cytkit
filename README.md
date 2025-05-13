@@ -85,4 +85,4 @@ The Bill of Materials including suppliers of parts is provided in [Cytkit Bill o
 - Build a business to make this project rewarding for collaborators
 
 ## Safety
-**Note that lasers, such as the one listed in the Bill of Materials are hazardous to the eyes. Direct exposure could cause permanent eye damage. Please do not build this design without laser safety training.**
+**Note that lasers, such as the one listed in the Bill of Materials are hazardous to the eyes. Direct exposure could cause permanent eye damage. Please do not build this design without adequate laser safety training.**
