@@ -38,9 +38,9 @@ Please [get in touch with me](https://www.linkedin.com/in/salmanrogers/) if you 
 ## License
 This project is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal [CERN-OHL-S](https://opensource.org/license/cern-ohl-s). 
 
-That means you can study and modify this design. You may also manufacture and distribute products based on it, but only if you release all modifications and derivatives under the same open source license. 
+That means you can study and modify this design. You may also manufacture and distribute products based on it if you release derivative designs under the same open source license. 
 
-There is no warranty. All liabilities are disclaimed. You accept the design "as is."
+There is no warranty. All liabilities are disclaimed. You accept the design "as is." 
 
 ## Specification
 Cytkit is intended to be one's personal cytometry _sidekick_:
@@ -83,3 +83,6 @@ The Bill of Materials including suppliers of parts is provided in [Cytkit Bill o
 - Provide software (embedded and host PC)
 - Provide kits on demand
 - Build a business to make this project rewarding for collaborators
+
+## Safety
+**Note that lasers, such as the one listed in the Bill of Materials are hazardous to the eyes. Direct exposure could cause permanent eye damage. Please do not build this design without laser safety training.**
