@@ -1,5 +1,5 @@
 # Cytkit
-__Your spectral cytometry sidekick__
+__Your spectral cytometry sidekick__ ![Cytkit mascot](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit_logo_bee_thumb.png?raw=true)
 
 ## Introduction
 This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project.
