@@ -1,5 +1,6 @@
 # Cytkit
-__Your spectral cytometry sidekick__ ![Cytkit mascot](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit_logo_bee_thumb.png?raw=true)
+![Cytkit mascot](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit_logo_bee_thumb.png?raw=true)
+__Your open-source spectral cytometry sidekick__ 
 
 ## Introduction
 This project was started by Samson Rogers to bring a low-cost open-source cytometer design to the cytometry community. Thanks also to Oliver Burton for contributing to the specification and Stuart Vant for electronics development. The inspiration came from the Open Cytometry Hardware workshop by David Novo at CYTO 2024 in Edinburgh, and also from the OpenFlexure Microscope project.
@@ -29,6 +30,8 @@ Please get in touch with me if you are:
 - interested in buying a kit
 - interested in talking about anything else!
 
+![Cytkit CAD render](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit%200.3%20transparent.png?raw=true)
+
 ## License
 This project is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal [CERN-OHL-S](https://opensource.org/license/cern-ohl-s). 
 
@@ -39,7 +42,7 @@ There is no warranty and all liabilities are disclaimed. Youu accept the design 
 ## Specification
 Cytkit is intended to be one's personal cytometry sidekick:
 - Conventional format, but small
-- Easy to adjust / align
+- Easy to adjust, align and maintain... no need for a service contract
 - Separate sheath and waste bottles
 - Volumetric sample pump for absolute concentration measurement of cell populations
 - Conventional single sip-tube sample loader 
@@ -47,11 +50,32 @@ Cytkit is intended to be one's personal cytometry sidekick:
 - Can be powered by USB power pack
 - Mechanical parts all 3D-printed
 
+![Cytkit bench scene with scientist](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit%20on%20bench%20scene.png?raw=true)
+
+## Cytometry
+The cytometry is based on a single laser plus an spectral array of solid-state detectors.
+
+__Why?__
+
+- Skilled cytometrists can currently measure ~10 fluorophores on a 488 nm laser alone
+- Take advantage of low-cost reagents for the 488 nm laser
+- Take advantage of available low-cost parts: SiPMs plus dispersion element rather than many expensive filters
+- Such a design can be mechanically simple, allowing fully 3D printed mechanics, simple assembly, adjustment and alignment
+
+![Cytkit cytometry spec](/Presentation%20materials/Burton%2010-colours%20on%20488.png)
 
 ## Source files
-The full mechanical design is provided
+The full mechanical design has been built with FreeCAD and is provided in [CAD and optical model/Cytkit model 0.31 12may25.FCStd](https://github.com/salmansamson/cytkit/blob/main/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25.FCStd)
+
+The optical model has been built in the FreeCAD Optical Design Workbench and is provided in [Cytkit model 0.31 12may25 optics only.FCStd](https://github.com/salmansamson/cytkit/blob/main/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25%20optics%20only.FCStd)
+
+STL files for 3D printing (FDM) are provided in [STL files for printing].
+
+The Bill of Materials is provides in [Cytkit Bill of Materials v0.3.ods](https://github.com/salmansamson/cytkit/blob/main/Cytkit%20Bill%20of%20Materials%20v0.3.ods)
 
 ## To do
-
-
-## Next steps
+- Present the project at CYTO 2025 in Denver
+- Write complete documentation for 3D printing, assembly, alignment and maintenance.
+- Provide electronics PCBs and connectors
+- Provide software (embedded and host PC)
+- Provide kits on demand
