@@ -81,4 +81,5 @@ The Bill of Materials including suppliers of parts is provided in [Cytkit Bill o
 - Write complete documentation for 3D printing, assembly, alignment and maintenance
 - Provide electronics PCBs and connectors
 - Provide software (embedded and host PC)
-- Build a business to provide kits on demand and make this project rewarding for collaborators
+- Provide kits on demand
+- Build a business to make this project rewarding for collaborators
