@@ -25,12 +25,12 @@ To complete the design, the following additions are planned:
 
 The bill of materials including all current parts as well as an estimation of the planned electronics currently comes to about $3k. 
 
-Please get in touch with me if you are:
+Please [get in touch with me](https://www.linkedin.com/in/salmanrogers/) if you are:
 - interested in contributing
 - interested in buying a kit
 - interested in talking about anything else!
 
-![Cytkit CAD render](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit%200.3%20transparent.png?raw=true)
+![Cytkit CAD render](/Presentation%20materials/cytkit%200.3%20transparent.png)
 
 ## License
 This project is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal [CERN-OHL-S](https://opensource.org/license/cern-ohl-s). 
@@ -50,7 +50,7 @@ Cytkit is intended to be one's personal cytometry sidekick:
 - Can be powered by USB power pack
 - Mechanical parts all 3D-printed
 
-![Cytkit bench scene with scientist](https://github.com/salmansamson/cytkit/blob/main/Presentation%20materials/cytkit%20on%20bench%20scene.png?raw=true)
+![Cytkit bench scene with scientist](/Presentation%20materials/cytkit%20on%20bench%20scene.png)
 
 ## Cytometry
 The cytometry is based on a single laser plus an spectral array of solid-state detectors.
@@ -65,13 +65,13 @@ __Why?__
 ![Cytkit cytometry spec](/Presentation%20materials/Burton%2010-colours%20on%20488.png)
 
 ## Source files
-The full mechanical design has been built with FreeCAD and is provided in [CAD and optical model/Cytkit model 0.31 12may25.FCStd](https://github.com/salmansamson/cytkit/blob/main/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25.FCStd)
+The full mechanical design has been built with FreeCAD and is provided in [CAD and optical model/Cytkit model 0.31 12may25.FCStd](/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25.FCStd)
 
-The optical model has been built in the FreeCAD Optical Design Workbench and is provided in [Cytkit model 0.31 12may25 optics only.FCStd](https://github.com/salmansamson/cytkit/blob/main/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25%20optics%20only.FCStd)
+The optical model has been built in the FreeCAD Optical Design Workbench and is provided in [Cytkit model 0.31 12may25 optics only.FCStd](/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25%20optics%20only.FCStd)
 
-STL files for 3D printing (FDM) are provided in [STL files for printing].
+STL files for 3D printing (FDM) are provided in [STL files for printing](/STL%20files%20for%20printing).
 
-The Bill of Materials is provides in [Cytkit Bill of Materials v0.3.ods](https://github.com/salmansamson/cytkit/blob/main/Cytkit%20Bill%20of%20Materials%20v0.3.ods)
+The Bill of Materials is provides in [Cytkit Bill of Materials v0.3.ods](/Cytkit%20Bill%20of%20Materials%20v0.3.ods)
 
 ## To do
 - Present the project at CYTO 2025 in Denver
