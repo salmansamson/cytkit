@@ -68,7 +68,7 @@ __Why?__
 ![Cytkit cytometry spec](/Presentation%20materials/Burton%2010-colours%20on%20488.png)
 
 ## Source files
-The full mechanical design has been built with FreeCAD and is provided in [CAD and optical model/Cytkit model 0.31 12may25.FCStd](/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25.FCStd)
+The full mechanical design has been built with FreeCAD and is provided in [CAD and optical model/Cytkit model 0.32.FCStd](/CAD%20and%20optical%20model/Cytkit%20model%200.32.FCStd)
 
 The optical model has been built in the FreeCAD Optical Design Workbench and is provided in [Cytkit model 0.31 12may25 optics only.FCStd](/CAD%20and%20optical%20model/Cytkit%20model%200.31%2012may25%20optics%20only.FCStd)
 
