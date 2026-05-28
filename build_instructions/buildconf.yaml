@@ -1,0 +1,13 @@
+Affiliation: Astute Devices
+CustomCategories:
+  1S-1F:
+    DisplayName: Cytkit 1S-1F configuration
+    Reuse: false
+  2S-14F:
+    DisplayName: Cytkit 2S-14F configuration
+    Reuse: false
+Email: hello@cytkit.com
+HoverColor: '#555555'
+License: CERN-OHL-S-2.0
+PrimaryColor: '#f1502f'
+SecondaryColor: '#cccccc'
