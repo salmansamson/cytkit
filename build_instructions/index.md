@@ -4,23 +4,23 @@ Cytkit is an open-source spectral cytometer. Cytkit is based on an open source o
 
 The Cytkit instrument has one laser, beam-shaping optics, a fluidic system with sheath flow and pumps for sample and sheath, optics for collecting and filtering emitted light, a dispersion element to split the emission into a spectrum, and flexural degrees of freedom to align the laser beam and align the emission to detectors.
 
-Various detectors can be mounted in Cytkit. These instructions cover two configurations.
+Various detectors can be mounted in Cytkit. These instructions cover two configurations as follows. 
 
 ## Cytkit 1S-1F
 
 *** image
 
-This is the 1-scatter 1-fluorescence configuration, which uses electronics from test equipment vendors: 1 x amplified photodiode ([Thorlabs PDA10](.){qty:1, cat:1S-1F}), 1 x PMT (Hamamatsu), 1 x USB oscilloscope (Picoscope), as well as separate boards for motor control and power supplies. 
+This is the 1-scatter 1-fluorescence configuration, which uses electronics from test equipment vendors: 1 x amplified photodiode ([Thorlabs PDA10](components/thorlabs_pda10.md){qty:1, cat:electronics1S1F}), 1 x PMT ([Hamamatsu H10732](components/hamamatsu_H10732.md){qty:1, cat:electronics1S1F}, 1 x USB oscilloscope ([Picoscope 5000 Series](components/picoscope.md){qty:1, cat:electronics1S1F}), as well as separate boards for motor control, and power supplies. 
 
->i Note that 1 fluorescence detector is pretty minimal for a spectral system! (At least you can mount it at a wavelength of your choice.) Moreover, the USB oscilloscope can only transfer a low rate of events. This configuration is intended as a demonstration for technology development, rather than as a useful cytometer.
+>i Note that 1 fluorescence detector is pretty minimal for a spectral system, to make an understatement! (At least you can mount it at a wavelength of your choice.) Moreover, the USB oscilloscope can only transfer a low rate of events. This configuration is intended as a demonstration for technology development, rather than as a useful cytometer.
 
 ## Cytkit 2S-14F 
 
 *** image 
 
-This is the 2-scatter 14-fluorescence configuration, which uses the Astute Devices Cytometry Electronics Kit (2x photodiode board, 1x SiPM array board, 1x main board, 1x pump connector board). 
+This is the 2-scatter 14-fluorescence configuration, which uses the [Astute Devices Cytometry Electronics Kit](components/cytometry_electronics_kit.md){qty:1, cat:electronics2S14F} (2x photodiode board, 1x SiPM array board, 1x main board, 1x pump connector board, with cables). 
 
-This configuration is intended as an easy way to build your own useful spectral cytometer. 
+This configuration is intended as an easy way to build your own fully functional spectral cytometer. 
 
 >i The Astute Devices Cytometry Electronics Kit is in development and anticipated to be released in Q3 2026.
 
@@ -50,10 +50,14 @@ You will need the parts according to the [bill of materials]{BOM} according to w
 * a set of Allen/hex keys
 * a set of precision screwdrivers
 
-1. [Print, source and inspect the parts](print_parts.md){step}
-1. [Assemble the instrument](assemble.md){step}
+1. [Print the mechanical parts](print_parts.md){step}
+1. [Source the remaining components](source_parts.md){step}
+1. [Assemble the mechanical parts](assemble.md){step}
+1. [Assemble the optics](assemble_optics.md){step}
+1. [Assemble the fluidics](assemble_fluidics.md){step}
 1. [Connect the electronics](electronics.md){step}
 1. [Install and run the software](software.md){step}
 1. [Coarse alignment](coarse_alignment.md){step}
 1. [Fine alignment](fine_alignment.md){step}
+1. [Test your Cytkit cytometer](test_cytometer.md){step}
 

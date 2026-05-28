@@ -1,7 +1,15 @@
-# Assemble the instrument
+# Assemble the mechanics
 
-# Mechanics
+*** picture of mechanics before assembly
 
-# Fluidics
+## Attach base to stand {pagestep}
 
-# Electronics
+## Attach main body to base {pagestep}
+
+## Attach fan holder and sheath pump holder to stand {pagestep}
+
+## Attach fluidics cart to stand {pagestep}
+
+## Attach main body to base {pagestep}
+
+*** picture of mechanics after assembly
