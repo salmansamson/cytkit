@@ -2,9 +2,9 @@
 
 Almost all the mechanical parts of the Cytkit are 3D printed, which you can do yourself from the STL files provided in the repo. Most parts require a consumer-grade FDM 3D printer with a 220x220mm print bed. A few parts however require a resin printer, for fine detail and fluidic sealing. 
 
->i A couple of days of 3D printing is required to build a Cytkit, and both an FDM and a resin printer. We intend to supply kits shortly to make it easier to build a Cytkit.
+>i A couple of days of 3D printing is required to build a Cytkit, and both an FDM and a resin printer. We intend to supply full kits shortly to make it easier to get started with Cytkit.
 
-*** pics of parts (all, resin, each)
+![All printed parts](images/build photos/20260530_112224 all printed parts.jpg)
 
 # FDM parts
 

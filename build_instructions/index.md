@@ -1,22 +1,22 @@
 # Cytkit
 
-Cytkit is an open-source spectral cytometer. Cytkit is based on an open source optical model. All mechanical parts are designed to be 3D-printed.
+Cytkit is an open-source spectral cytometer. You can make your own, either from a kit or by sourcing all the parts yourself. All mechanical parts are designed to be 3D-printed. You can also study and modify the design in free software (FreeCAD, with an ray-tracing optical model in the FreeCAD Optical Workbench).
 
-The Cytkit instrument has one laser, beam-shaping optics, a fluidic system with sheath flow and pumps for sample and sheath, optics for collecting and filtering emitted light, a dispersion element to split the emission into a spectrum, and flexural degrees of freedom to align the laser beam and align the emission to detectors.
-
-Various detectors can be mounted in Cytkit. These instructions cover two configurations as follows. 
+The Cytkit instrument comprises: one laser, beam-shaping optics, a fluidic system with sheath flow and pumps for sample and sheath, optics for collecting and filtering emitted light, a dispersion element to split the emission into a spectrum, and [flexural degrees of freedom](https://doi.org/10.1364/BOE.385729) to align the laser beam and align the emission to detectors. 
+ 
+You can configure your Cytkit with various detectors and acquisition electronics. These instructions cover two configurations as follows. 
 
 ## Cytkit 1S-1F
 
-*** image
+![Cytkit 1s-1f fully assembled](images/build photos/20260530_180033 cytkit 1s-1f assembled.jpg)
 
 This is the 1-scatter 1-fluorescence configuration, which uses electronics from test equipment vendors: 1 x amplified photodiode ([Thorlabs PDA10](components/thorlabs_pda10.md){qty:1, cat:electronics1S1F}), 1 x PMT ([Hamamatsu H10732](components/hamamatsu_H10732.md){qty:1, cat:electronics1S1F}, 1 x USB oscilloscope ([Picoscope 5000 Series](components/picoscope.md){qty:1, cat:electronics1S1F}), as well as separate boards for motor control, and power supplies. 
 
->i Note that 1 fluorescence detector is pretty minimal for a spectral system, to make an understatement! (At least you can mount it at a wavelength of your choice.) Moreover, the USB oscilloscope can only transfer a low rate of events. This configuration is intended as a demonstration for technology development, rather than as a useful cytometer.
+>i Note that 1 fluorescence detector is pretty minimal for a spectral system, to make an understatement! (At least you can mount it at a wavelength of your choice.) Moreover, the USB oscilloscope can only transfer a low rate of events. This configuration is intended as an demonstration for education and technology development, rather than as a useful cytometer.
 
 ## Cytkit 2S-14F 
 
-*** image 
+![Cytkit 1s-1f fully assembled](images/build photos/20260530_181626 cytkit 2s-14f assembled.jpg)
 
 This is the 2-scatter 14-fluorescence configuration, which uses the [Astute Devices Cytometry Electronics Kit](components/cytometry_electronics_kit.md){qty:1, cat:electronics2S14F} (2x photodiode board, 1x SiPM array board, 1x main board, 1x pump connector board, with cables). 
 
@@ -27,7 +27,7 @@ This configuration is intended as an easy way to build your own fully functional
 
 # Safety first
 
->!! Cytkit uses a Class 3B laser (a 488 nm laser diode with output power of approximately 25 mW). This is hazardous to the eyes. We strenuously advise you to have laser safety training before building a Cytkit.
+>!! Cytkit uses a Class 3B laser (a 488 nm laser diode with output power of approximately 25 mW). This is hazardous to the eyes. We strenuously advise you to have laser safety training before building your own Cytkit.
 
 At no point should you switch on the laser unless it is contained within the main body of the Cytkit instrument with the beam blocked by the FSC detector.
 

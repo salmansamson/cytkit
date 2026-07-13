@@ -1,14 +1,13 @@
 ---
 PartData:
     Specs:
-        Design output: Holder SiPM board.stl
-        Material: Matt Black PLA / HyperPLA / UltraPLA
+        Design output: main body with optics-Holder FL board - extra airflow to rear.stl        Material: Matt Black PLA / HyperPLA / UltraPLA
         Print orientation: upright
 
 ---
 # Holder SiPM board
 
-A simple holder. Serves to hold SiPM array board for full spectrum or white screen for alignment. Slotted mount holes for position adjustment.
+Holder for the SiPM fluorescence detector board.
 
-![](stl/Holder SiPM board.stl)
+![](stl/main body with optics-Holder FL board - extra airflow to rear.stl)
 
