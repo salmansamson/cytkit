@@ -45,6 +45,16 @@ The following parts should also be rigid and black, but require a bit more flexi
 1. [Condensing lens holder](printed/condensing_lens_holder.md){qty:1, cat:printed}
 1. [Correction cylindrical lens holder](printed/correction_cyl_lens_holder.md){qty:1, cat:printed}
 1. [Camera mount v-adjust](printed/camera_mount_v_adjust.md){qty:1, cat:printed}
+1. [Circular filter holder (26mm diameter)](printed/coloured_glass_filter_holder.md){qty:2, cat:printed}
+1. [Grating holder](printed/grating_holder.md){qty:1, cat:printed}
+1. [Spectrum focusing lens holder](printed/spectrum_focus_lens_holder.md){qty:1, cat:printed}
+1. [LED holder for fluorescence and SSC testing](printed/led_holder_fl_ssc_test.md){qty:1, cat:printed}
+1. [SSC focusing lens holder](printed/ssc_focus_lens_holder.md){qty:1, cat:printed}
+
+Note holders for alternative filter sizes:
+
+1. [Circular filter holder (34mm diameter)](printed/circular_filter_holder_34mm_diameter.md){qty:1, cat:printed}
+1. [Rectangular filter holder (25.5x26mm)](printed/rectangular_filter_holder.md){qty:1, cat:printed}
 
 ## White PLA parts
 

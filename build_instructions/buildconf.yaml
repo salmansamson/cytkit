@@ -1,10 +1,10 @@
 Affiliation: Astute Devices
 CustomCategories:
-  electronics2S14F:
-    DisplayName: Electronic parts for Cytkit 2S-14F configuration
-    Reuse: false
   electronics1S1F:
     DisplayName: Electronic parts for Cytkit 1S-1F configuration
+    Reuse: false
+  electronics2S14F:
+    DisplayName: Electronic parts for Cytkit 2S-14F configuration
     Reuse: false
   fluidics:
     DisplayName: Fluidic parts
@@ -25,8 +25,11 @@ CustomCategories:
     DisplayName: Printed parts for Cytkit 2S-14F configuration
     Reuse: false
   printed_resin:
-    Reuse: false
     DisplayName: Printed parts (resin 3D printer)
+    Reuse: false
+  safety:
+    Reuse: false
+    DisplayName: Safety Equipment
 Email: hello@cytkit.com
 HoverColor: '#555555'
 License: CERN-OHL-S-2.0

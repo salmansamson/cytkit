@@ -1,0 +1,23 @@
+self_tapping_m3x25_hex_socket:
+    Name: M3 self-tapping hex socket cap screws 25 mm (black)
+    Description: Metric Screw
+    Specs:
+        Material: Carbon Steel
+    Suppliers:
+        JUIDINTO:
+            PartNo: 15-50pcs Black Hex Hexagon Socket Cap Head Self Tapping Screws Carbon Steel
+            Link: 'https://www.aliexpress.com/item/1005004723738740.html'
+self_tapping_m3x6_posi:
+    Name: M3 self-tapping posi head screws 6 mm (black)
+    Description: Metric Screw
+    Specs:
+        Material: Carbon Steel
+    Suppliers:
+        JUIDINTO:
+            PartNo: 15-50pcs Black Hex Hexagon Socket Cap Head Self Tapping Screws Carbon Steel
+            Link: 'https://www.aliexpress.com/item/1005004723738740.html'
+self_tapping_m3x8_posi:
+self_tapping_m3x10_posi:
+self_tapping_m3x12_posi:
+self_tapping_m3x16_posi:
+m3_washers:
