@@ -34,6 +34,7 @@ For the Cytkit 2S-14F configuration:
 1. [ND filter holder for FSC](printed/nd_filter_holder.md){qty:1, cat:printed2S14F}
 1. [Holder SiPM board](printed/holder_sipm_board.md){qty:1, cat:printed} (print an additional one to the one listed above)
 1. [Cover (with optics diagram)](printed/cover_with_optics_diagram.md){qty:1, cat:printed1S1F}
+1. [Cable stay bar](printed/cable_stay_bar.md){qty:1, cat:printed1S1F}
 
 >i Note that the Cover (with optics diagram) can be printed with a couple of external layers in a different colour, for decoration and for better contrast in visualising the optics diagram.
 
@@ -67,6 +68,7 @@ The following part must be printed in white as it is a tool for seeing the spect
 The following parts do not interfere with the optics, and therefore can be printed in any colour you like. PLA+ is recommended for toughness, ridigity and accuracy.
 
 1. [Sample loader](printed/sample_loader.md){qty:1, cat:printed}
+1. [Sample loader range limiter](printed/sample_loader_range_limiter.md){qty:1, cat:printed}
 1. [Sample pump holder](printed/sample_pump.md){qty:1, cat:printed}
 
 For the Cytkit 1S-1F configuration:
