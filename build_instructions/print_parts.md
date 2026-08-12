@@ -52,10 +52,13 @@ The following parts should also be rigid and black, but require a bit more flexi
 1. [LED holder for fluorescence and SSC testing](printed/led_holder_fl_ssc_test.md){qty:1, cat:printed}
 1. [SSC focusing lens holder](printed/ssc_focus_lens_holder.md){qty:1, cat:printed}
 
-Note holders for alternative filter sizes:
+Since a variety of filter sizes are available from optics suppliers as stock items, we also provide a set of alternative size holders:
 
 1. [Circular filter holder (34mm diameter)](printed/circular_filter_holder_34mm_diameter.md){qty:1, cat:printed}
+1. [Circular filter holder (25mm diameter)](printed/circular_filter_holder_25mm_diameter.md){qty:1, cat:printed}
+1. [Circular filter holder (15mm diameter)](printed/circular_filter_holder_15mm_diameter.md){qty:1, cat:printed}
 1. [Rectangular filter holder (25.5x26mm)](printed/rectangular_filter_holder.md){qty:1, cat:printed}
+
 
 ## White PLA parts
 

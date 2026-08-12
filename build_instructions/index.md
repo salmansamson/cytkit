@@ -66,9 +66,9 @@ To align and test the instrument, you will need:
 1. [Print the mechanical parts](print_parts.md){step}
 1. [Source the remaining components](source_parts.md){step}
 1. [Assemble the mechanical parts](assemble.md){step}
-1. [Assemble the optics](assemble_optics.md){step}
 1. [Assemble the fluidics](assemble_fluidics.md){step}
-1. [Connect the electronics](electronics.md){step}
+1. [Assemble the optics](assemble_optics.md){step}
+1. [Install the electronics](electronics.md){step}
 1. [Install and run the software](software.md){step}
 1. [Coarse alignment](coarse_alignment.md){step}
 1. [Fine alignment](fine_alignment.md){step}

@@ -3,7 +3,7 @@ PartData:
     Specs:
         Design output: main body with optics-Filter holder D26mm.stl
         Material: PLA+ (Black)
-        Print orientation: upright
+        Print orientation: upright or flat
 
 ---
 # Circular filter holder (26 mm diameter)

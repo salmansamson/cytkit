@@ -18,7 +18,7 @@ Apart from the 3D printed parts, Cytkit requires a set of specialised components
 1. [Laser focus lens cylindrical](optical/laser_focus_lens_cylindrical.md){qty:1, cat:optics}
 1. [Blazed reflection grating](optical/blazed_reflection_grating.md){qty:1, cat:optics}
 1. [Neutral density filter](optical/nd_filter.md){qty:1, cat:optics}
-1. [Dichroic longpass filter at 45 degrees](optical/dichroic_longpass_45.md){qty:1, cat:optics}
+1. [Dichroic longpass filter at 45 degrees (beamsplitter)](optical/dichroic_longpass_45.md){qty:1, cat:optics}
 1. [Dichroic longpass filter at 0 degrees](optical/dichroic_longpass.md){qty:1, cat:optics}
 1. [Coloured glass longpass filter](optical/coloured_glass_longpass.md){qty:1, cat:optics}
 1. [Condensing lens](optical/condensing_lens.md){qty:1, cat:optics}
@@ -87,7 +87,7 @@ According to the configuration you are building:
 1. [M3 self-tapping posi head screws 8 mm](mechanical/screws.yaml#self_tapping_m3x8_posi){qty:1, cat:mechanics}
 1. [M3 self-tapping posi head screws 10 mm](mechanical/screws.yaml#self_tapping_m3x10_posi){qty:1, cat:mechanics}
 1. [M3 self-tapping posi head screws 12 mm](mechanical/screws.yaml#self_tapping_m3x12_posi){qty:1, cat:mechanics}
-1. [M3 self-tapping posi head screws 16 mm](mechanical/screws.yaml#self_tapping_m3x16_posi){qty:1, cat:mechanics}
+1. [M3 self-tapping posi head screws 16 mm](mechanical/screws.yaml#self_tapping_m3x16_posi){cat:mechanics}
 1. [M3 washers](mechanical/screws.yaml#m3_washers){qty:1, cat:mechanics}
 1. [Stainless steel compression springs, 0.5 mm wire, 20 mm length, 6 mm diameter](mechanical/springs_20x6x0.5mm.md){qty:1, cat:mechanics}
 1. [Stainless steel extension springs, 0.3 mm wire, 20 mm length, 6 mm diameter](mechanical/extension_springs_20x6x0.3mm.md){qty:1, cat:mechanics}
