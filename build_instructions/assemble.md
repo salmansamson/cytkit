@@ -1,7 +1,5 @@
 # Assemble the mechanics
 
-*** picture of mechanics before assembly
-
 ## Attach base to stand {pagestep}
 
 Lay the base and stand on their side as shown. The stand is attached to the base with 4 x [M3 self-tapping posi head screws 16 mm](mechanical/screws.yaml#self_tapping_m3x16_posi){qty:4, cat:mechanics}. 
@@ -14,8 +12,7 @@ Lay the base and stand on their side as shown. The stand is attached to the base
 
 First remove the printed brims on the ends of the adjustment arms of the main body as highlighted below.
 
-*** image of snipping
-
+![](images/build photos/20260814_172511 snipping brim.jpg)
 ![](images/build diagrams/main body brims.png)
 
 Stand the base and stand upright. Then stand 4x [Stainless steel compression springs, 0.5 mm wire, 20 mm length, 6 mm diameter](mechanical/springs_20x6x0.5mm.md){qty:4, cat:mechanics} into the circular recesses in the base as shown.
@@ -29,10 +26,11 @@ Carefully lower the main body onto the base as shown so that the circular caviti
 ![](images/build photos/20260530_122819 main body to base.jpg)
 ![](images/build diagrams/main body to base.png)
 
-Screw in the 4 x [M3 self-tapping hex socket cap screws 25 mm](mechanical/screws.yaml#self_tapping_m3x25_hex_socket){qty:4, cat:mechanics}, which are the lead screws of the adjustment arms, one on each adjustment arm. Do not fully tighten. Screw them in so that the adjustment arms are horizontal and the xy flexure stages are centred.
+Screw in the 4 x [M3 self-tapping hex socket cap screws 25 mm](mechanical/screws.yaml#self_tapping_m3x25_hex_socket){qty:4, cat:mechanics}, first placing 1x [M3 washers](mechanical/screws.yaml#m3_washers){qty:1, cat:mechanics} under the screw head. These are the lead screws of the adjustment arms, one on each adjustment arm. Do not fully tighten. Screw them in so that the adjustment arms are horizontal and the xy flexure stages are centred.
 
  ![](images/build diagrams/lead screws.png)
  ![](images/build diagrams/adjustment arm.png)
+ ![](images/build photos/20260814_162621 spring under arm.jpg)
  ![](images/build diagrams/flexure stages.png)
 
 ## Attach fluidics cart to stand {pagestep}
@@ -45,7 +43,9 @@ Working underneath the instrument, you may lay the instrument on its side again 
 
 ## Instrument mechanics assembled
 
-Your instrument should now look like this. 2 flexure xy stages should be adjustable with 4 lead screws. Then you can move on to assembling the fluidics.
+Your instrument should now look like this. 2 flexure xy stages should be adjustable with 4 lead screws. 
 
 ![](images/build diagrams/instrument mech1.png)
 ![](images/build diagrams/instrument mech2.png)
+
+Now move on to assemble the fluidics!

@@ -1,7 +1,5 @@
 # Assemble the fluidics
 
-*** pic fluidics before
-
 ## Assemble flow cell {pagestep}
 
 >! **Caution** 
@@ -86,7 +84,10 @@ To loosen the hinges, apply pressure to the two sets of adjacent hinges as shown
 ![](images/build photos/20260814_113657 sample loader flat.jpg)
 ![](images/build photos/20260814_113832 sample loader set loose.jpg)
 
-20260814_113858 flex sample loader lubricate.mp4
+<video width="640" height="360" controls>
+  <source src="images/build photos/20260814_113858 flex sample loader lubricate.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Attach the two sample loader range limiters to the holes as shown using 2x [M3 self-tapping posi head screws 8 mm](mechanical/screws.yaml#self_tapping_m3x8_posi){qty:1, cat:mechanics}.
 
@@ -216,7 +217,7 @@ Make sure SIP tube reaches the bottom of a sample tube placed in the sample load
 Make sure the sample loader goes up and down smoothly, stays stably at both the top and bottom positions, and that a sample tube can be inserted and removed easily. You may need to straighten the PEEK SIP tube by bending it in the opposite direction from whichever way it naturally curled.
 
 <video width="640" height="360" controls>
-  <source src="images/build photos/20260814_122227 test sample loader compressed.mp4 type="video/mp4">
+  <source src="images/build photos/20260814_122227 test sample loader compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
